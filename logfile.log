@@ -1,0 +1,10 @@
+2025-03-13 12:00:01 INFO Application started successfully
+2025-03-13 12:01:15 WARNING Disk space is running low
+2025-03-13 12:02:34 ERROR Failed to connect to database
+2025-03-13 12:05:47 INFO User logged in
+2025-03-13 12:07:23 ERROR Unable to load configuration file
+2025-03-13 12:09:12 ERROR Timeout occurred while fetching data
+2025-03-13 12:11:05 INFO Scheduled task completed
+2025-03-13 12:14:55 ERROR Connection lost
+2025-03-13 12:18:20 WARNING High memory usage detected
+2025-03-13 12:21:30 ERROR File not found
